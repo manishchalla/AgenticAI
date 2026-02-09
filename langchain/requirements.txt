@@ -15,3 +15,4 @@ pinecone-client
 python-docx 
 rank_bm25
 sklearn
+python-docx
